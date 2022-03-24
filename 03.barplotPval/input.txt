@@ -1,0 +1,31 @@
+ID	Term	Count	Ratio	pvalue	FDR
+hsa04110	Cell cycle	29	0.29	4.92E-10	1.06E-07
+hsa05323	Rheumatoid arthritis	23	0.23	1.01E-08	1.09E-06
+hsa00010	Glycolysis / Gluconeogenesis	18	0.18	1.06E-07	7.61E-06
+hsa04145	Phagosome	27	0.27	8.62E-07	4.65E-05
+hsa01200	Carbon metabolism	22	0.22	3.41E-06	0.000147086
+hsa05140	Leishmaniasis	17	0.17	4.71E-06	0.000169311
+hsa05166	Human T-cell leukemia virus 1 infection	31	0.31	1.90E-05	0.000456952
+hsa04512	ECM-receptor interaction	17	0.17	3.06E-05	0.000600789
+hsa01230	Biosynthesis of amino acids	15	0.15	4.98E-05	0.000895075
+hsa03320	PPAR signaling pathway	15	0.15	8.07E-05	0.001338997
+hsa04672	Intestinal immune network for IgA production	11	0.11	0.000194047	0.00246314
+hsa04974	Protein digestion and absorption	16	0.16	0.000282118	0.003134856
+hsa05230	Central carbon metabolism in cancer	13	0.13	0.000391224	0.004020094
+hsa05152	Tuberculosis	24	0.24	0.000413079	0.004051728
+hsa04066	HIF-1 signaling pathway	17	0.17	0.000470448	0.004413814
+hsa00052	Galactose metabolism	8	0.08	0.000536204	0.004821133
+hsa04973	Carbohydrate digestion and absorption	10	0.1	0.0005968	0.005151327
+hsa04151	PI3K-Akt signaling pathway	38	0.38	0.000923352	0.007663446
+hsa04659	Th17 cell differentiation	16	0.16	0.001093815	0.008741993
+hsa05205	Proteoglycans in cancer	25	0.25	0.001196583	0.009221785
+hsa00250	Alanine, aspartate and glutamate metabolism	8	0.08	0.001553291	0.011172793
+hsa04514	Cell adhesion molecules	19	0.19	0.002505451	0.015447142
+hsa04922	Glucagon signaling pathway	15	0.15	0.002704018	0.015920412
+hsa04668	TNF signaling pathway	15	0.15	0.004613543	0.023703667
+hsa04918	Thyroid hormone synthesis	11	0.11	0.007325236	0.031375446
+hsa05321	Inflammatory bowel disease	10	0.1	0.007401499	0.031375446
+hsa04972	Pancreatic secretion	13	0.13	0.012082574	0.041385593
+hsa04910	Insulin signaling pathway	16	0.16	0.012928402	0.043510049
+hsa05332	Graft-versus-host disease	7	0.07	0.015483236	0.047730277
+hsa04115	p53 signaling pathway	10	0.1	0.016357389	0.049714821
